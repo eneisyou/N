@@ -1,0 +1,70 @@
+{
+  "id": "doc_family",
+  "category": "family",
+  "title": "5. かぞく (kazoku)",
+  "family_tree": {
+    "grandparents_generation": {
+      "relationship": "夫婦",
+      "members": [
+        { "id": "⑦", "term_ja": "おじいさん", "romaji": "ojīsan", "age": 81 },
+        { "id": "⑧", "term_ja": "おばあさん", "romaji": "obāsan", "age": 72 }
+      ]
+    },
+    "parents_and_aunts_uncles_generation": [
+      {
+        "relationship": "叔父・叔母（夫婦）",
+        "members": [
+          { "id": "⑨", "term_ja": "おじさん", "romaji": "ojisan", "age": 56 },
+          { "id": "⑩", "term_ja": "おばさん", "romaji": "obasan", "age": 47 }
+        ]
+      },
+      {
+        "relationship": "両親（夫婦）",
+        "members": [
+          { "id": "①", "term_ja": "おとうさん", "romaji": "otōsan", "age": 52 },
+          { "id": "②", "term_ja": "おかあさん", "romaji": "okāsan", "age": 50 }
+        ]
+      }
+    ],
+    "children_generation_siblings": [
+      { "id": "③", "term_ja": "おにいさん", "romaji": "onīsan", "age": 25 },
+      { "id": "④", "term_ja": "おねえさん", "romaji": "onēsan", "age": 23 },
+      { "id": null, "term_ja": "わたし", "romaji": "watashi", "age": 18, "is_self": true },
+      { "id": "⑤", "term_ja": "おとうと", "romaji": "otōto", "age": 12 },
+      { "id": "⑥", "term_ja": "いもうと", "romaji": "imōto", "age": 10 }
+    ],
+    "separate_group_own_family": {
+      "couple": [
+        { "id": "⑪", "term_ja": "おっと", "romaji": "otto", "age": 29 },
+        { "id": "⑫", "term_ja": "つま", "romaji": "tsuma", "age": 31 }
+      ],
+      "children_category": {
+        "term_ja": "こども",
+        "romaji": "kodomo",
+        "id": "⑬",
+        "members": [
+          { "id": "⑭", "term_ja": "むすこ", "romaji": "musuko", "age": 8 },
+          { "id": "⑮", "term_ja": "むすめ", "romaji": "musume", "age": 4 }
+        ]
+      }
+    }
+  },
+  "family_terms_table": [
+    { "id": "①", "term_ja": "おとうさん", "romaji": "otōsan", "relationship_and_age": "父（52歳）" },
+    { "id": "②", "term_ja": "おかあさん", "romaji": "okāsan", "relationship_and_age": "母（50歳）" },
+    { "id": "③", "term_ja": "おにいさん", "romaji": "onīsan", "relationship_and_age": "兄（25歳）" },
+    { "id": "④", "term_ja": "おねえさん", "romaji": "onēsan", "relationship_and_age": "姉（23歳）" },
+    { "id": "—", "term_ja": "わたし", "romaji": "watashi", "relationship_and_age": "自分（18歳）" },
+    { "id": "⑤", "term_ja": "おとうと", "romaji": "otōto", "relationship_and_age": "弟（12歳）" },
+    { "id": "⑥", "term_ja": "いもうと", "romaji": "imōto", "relationship_and_age": "妹（10歳）" },
+    { "id": "⑦", "term_ja": "おじいさん", "romaji": "ojīsan", "relationship_and_age": "祖父（81歳）" },
+    { "id": "⑧", "term_ja": "おばあさん", "romaji": "obāsan", "relationship_and_age": "祖母（72歳）" },
+    { "id": "⑨", "term_ja": "おじさん", "romaji": "ojisan", "relationship_and_age": "叔父（56歳）" },
+    { "id": "⑩", "term_ja": "おばさん", "romaji": "obasan", "relationship_and_age": "叔母（47歳）" },
+    { "id": "⑪", "term_ja": "おっと", "romaji": "otto", "relationship_and_age": "夫（29歳）" },
+    { "id": "⑫", "term_ja": "つま", "romaji": "tsuma", "relationship_and_age": "妻（31歳）" },
+    { "id": "⑬", "term_ja": "こども", "romaji": "kodomo", "relationship_and_age": "子供（総称）" },
+    { "id": "⑭", "term_ja": "むすこ", "romaji": "musuko", "relationship_and_age": "息子（8歳）" },
+    { "id": "⑮", "term_ja": "むすめ", "romaji": "musume", "relationship_and_age": "娘（4歳）" }
+  ]
+}
