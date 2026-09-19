@@ -1,0 +1,22 @@
+{
+  "name": "japanese",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/eneisyou/N#readme",
+  "bugs": {
+    "url": "https://github.com/eneisyou/N/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eneisyou/N.git"
+  },
+  "license": "ISC",
+  "author": "EISYOU",
+  "type": "module",
+  "main": "",
+  "scripts": {},
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.11.0"
+  }
+}
