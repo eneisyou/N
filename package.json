@@ -1,16 +1,16 @@
 {
-  "name": "japanese",
-  "version": "1.0.0",
-  "description": "",
-  "homepage": "https://github.com/eneisyou/N#readme",
+  "name": "E7N1",
+  "version": "1.1.0",
+  "description": "Japanese and English knowledge summary",
+  "homepage": "https://github.com/eneisyou/E7N1#readme",
   "bugs": {
-    "url": "https://github.com/eneisyou/N/issues"
+    "url": "https://github.com/eneisyou/E7N1/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eneisyou/N.git"
+    "url": "git+https://github.com/eneisyou/E7N1.git"
   },
-  "license": "ISC",
+  "license": "",
   "author": "EISYOU",
   "type": "module",
   "main": "",
